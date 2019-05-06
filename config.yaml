@@ -10,7 +10,7 @@ about:
   The web application was based on the [Food Image Classifier by Nidhin Pattaniyil and Reshama Shaikh](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/)
 
 
-code: https://github.com/npatta01/web-deep-learning-classifier
+code: https://github.com/tmabraham/retinopathy-classifier
 
 sampleImages:
   - name: No Retinopathy
