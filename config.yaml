@@ -5,7 +5,9 @@ about:
 
   This is a Diabetic Retinopathy Detector that detects Referrable Diabetic Retinopathy (RDR) using Deep Learning and was built with [fastai](docs.fast.ai)
 
+
   This project was built by [Tanishq Abraham](https://github.com/tmabraham)
+
 
   The web application was based on the [Food Image Classifier by Nidhin Pattaniyil and Reshama Shaikh](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/)
 
