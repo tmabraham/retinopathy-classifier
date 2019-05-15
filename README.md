@@ -13,7 +13,7 @@ A SqueezeNet pretrained on the ImageNet dataset was used to train the classifier
 
 Training was done with [Kaggle Kernels](https://kaggle.com/kernels). Training history is provided in [history.csv](notebooks/history.csv)
 
-The dataset came from the [Diabetic Retinopathy Kaggle Competition](https://kaggle.com/c/diabetic-retinopathy-detection), with the files resized to a width of 1024 (and maintaining the aspect ratio), before being loaded in fastai.
+The dataset came from the [Diabetic Retinopathy Kaggle Competition](https://kaggle.com/c/diabetic-retinopathy-detection), with the files cropped to remove any black space, and resized to a width of 1024 (and maintaining the aspect ratio), before being loaded in fastai.
 
 The following were used for model **deployment**:    
 - Heroku (Free Dyno)
